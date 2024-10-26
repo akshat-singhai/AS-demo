@@ -1,4 +1,4 @@
 # AS-demo
 This my first  repository
 <br>
-Author - Akshat singhai
+Author - Akshat singhai (B.C.A )
